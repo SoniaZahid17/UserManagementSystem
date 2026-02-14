@@ -1,0 +1,2 @@
+sonia,sonia@gmail.com,$2y$10$NEPLnmTsPWhIDec9Kgwa9eZKz7viiMfznslDFNrTtPhcLzut9UNUK
+maria,maria@gmail.com,$2y$10$RvY2jj/xAOWesVGk9d00feXgdhPGbQr171pY3uZQMPi2YUqrcXY.m
